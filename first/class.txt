@@ -1,0 +1,10 @@
+there are two type of state mangement 
+1 simple (get)
+2 react (obx getx)
+
+obx is used for one widget rebuilt
+getx is used for render more widget
+
+getx (update() is work just like the setstate for render the page)
+
+
